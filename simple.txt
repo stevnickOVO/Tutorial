@@ -5,4 +5,8 @@ Tutorial commit
 =======
 tutorial commit
 >>>>>>> 3bae6783e739d89b4250d33ac16609129cf3ac70
+<<<<<<< HEAD
 加入等級系統
+=======
+加入任務功能
+>>>>>>> branch
